@@ -13,11 +13,11 @@ The table with returing employees is:
 The table with mentorship candidiates is:
 [mentorship_eligibility.csv](https://github.com/nfujikad/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
-Key Points
-1.) The majority of the retireees are in senior poritions, accounting for 2/3 of retirees. One-third are senior engineers and another third are senior staff
-2.) The company should prioritize positions that either fill the Senior Engineer and Senior Staff roles or positions that can fill these roles in the future after mentoring.
-3.) Among the retireees, 1,549 qualify for the mentorship program.
-4.) There are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
+-   Key Points
+1.  The majority of the retireees are in senior poritions, accounting for 2/3 of retirees. One-third are senior engineers and another third are senior staff
+2.  The company should prioritize positions that either fill the Senior Engineer and Senior Staff roles or positions that can fill these roles in the future after mentoring.
+3.  Among the retireees, 1,549 qualify for the mentorship program.
+4.  There are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
 
 ## Summary
 1.  In order to efficiently train and transition junior staff into higher positions, it is important to determine how many roles will need to be filled as employees retire. A graph can be used to categorize the retirees into age groups. If it is assumed retirement is 65, then hiring can be conducted accordingly. Using a list of people born between 1952 and 1955, a hiring quota for each of the following four years can be generated.
