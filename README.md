@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 
-## Resources
--   Software: pgAdmin4
-
 ## Analysis Overview
 For this analysis, two tables were created to quantify the number of retiring employees and their positions, and one to identify employees who are eligible for the mentorship program. The first table includes enployee information, such as employee number, first and last name, position title, and start and end date. The second table has employee number, first and last name, birth date, start and end date, and position title. 
+
+## Resources
+-   Software: pgAdmin4
 
 ## Results
 The table with returing employees is:
